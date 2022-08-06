@@ -1,0 +1,30 @@
+iframe.choc {
+  width: 90%;
+  height: 90%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  position: absolute;
+}
+iframe.snake {
+  width: 90%;
+  height: 90%;
+  top: 1200px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  position: absolute;
+}
+iframe.tac {
+  width: 90%;
+  height: 90%;
+  top: 2500px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  position: absolute;
+}
